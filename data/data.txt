@@ -1,0 +1,62 @@
+POINTS
+1.	Nikola JokicDEN	28
+2.	Jimmy ButlerMIA	21
+3.	Bam AdebayoMIA	20
+4.	Michael Porter Jr.DEN	16
+5.	Jamal MurrayDEN	14
+
+REBOUNDS
+1.	Nikola JokicDEN	16
+2.	Michael Porter Jr.DEN	13
+3.	Bam AdebayoMIA	12
+4.	Kyle LowryMIA	9
+5.	Jamal MurrayDEN	8
+
+ASSISTS
+1.	Jamal MurrayDEN	8
+2.	Jimmy ButlerMIA	5
+3.	Nikola JokicDEN	4
+3.	Kyle LowryMIA	4
+5.	Michael Porter Jr.DEN	3
+
+BLOCKS
+1.	Kentavious Caldwell-PopeDEN	3
+2.	Kevin LoveMIA	2
+2.	Duncan RobinsonMIA	2
+4.	Christian BraunDEN	1
+4.	Aaron GordonDEN	1
+
+STEALS
+1.	Jimmy ButlerMIA	3
+2.	Kentavious Caldwell-PopeDEN	2
+2.	Aaron GordonDEN	2
+2.	Kyle LowryMIA	2
+5.	Bam AdebayoMIA	1
+
+TURNOVERS
+1.	Jamal MurrayDEN	6
+2.	Nikola JokicDEN	4
+3.	Caleb MartinMIA	2
+3.	Duncan RobinsonMIA	2
+5.	Bam AdebayoMIA	1
+
+THREE POINTERS MADE
+1.	Kyle LowryMIA	4
+2.	Jimmy ButlerMIA	2
+2.	Jamal MurrayDEN	2
+4.	Kentavious Caldwell-PopeDEN	1
+4.	Nikola JokicDEN	1
+
+FREE THROWS MADE
+1.	Jimmy ButlerMIA	9
+2.	Christian BraunDEN	3
+2.	Nikola JokicDEN	3
+4.	Bam AdebayoMIA	2
+4.	Bruce BrownDEN	2
+FANTASY POINTS
+
+1.	Nikola JokicDEN	52.2
+2.	Jimmy ButlerMIA	40.1
+3.	Bam AdebayoMIA	37.9
+4.	Kyle LowryMIA	36.8
+5.	Michael Porter Jr.DEN	35.1
