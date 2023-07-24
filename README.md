@@ -1,6 +1,6 @@
-# Simplified Conversational AI model ready for use
+# Simplified Conversational AI model
 
-Introducing a sophisticated Conversational AI model, leveraging the power of Langchain and OpenAI's cutting-edge language model. This model is uniquely designed to operate on custom imported data, enabling personalized and context-aware interactions. By integrating Langchain, it efficiently manages conversation flows, ensuring coherent, natural language exchanges. The use of OpenAI's language model allows the system to generate remarkably human-like responses.
+Sophisticated Conversational AI model, leveraging the power of Langchain and OpenAI's cutting-edge language model. This model is uniquely designed to operate on custom imported data, enabling personalized and context-aware interactions. By integrating Langchain, it efficiently manages conversation flows, ensuring coherent, natural language exchanges. The use of OpenAI's language model allows the system to generate remarkably human-like responses.
 
 ## Installation
 
