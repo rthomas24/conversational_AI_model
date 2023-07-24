@@ -6,7 +6,7 @@ Introducing a sophisticated Conversational AI model, leveraging the power of Lan
 
 Install [Langchain](https://github.com/hwchase17/langchain) and other required packages.
 ```
-pip install langchain openai
+pip install langchain openai chromadb
 ```
 Modify `constants.py` to use your own [OpenAI API key](https://platform.openai.com/account/api-keys)
 
@@ -17,5 +17,5 @@ Test reading `data/data.txt` file.
 ```
 > python simplegpt.py
 Question: "Who had the most blocks"
-Kentavious Caldwell Pope of the Denver Nuggets had the most blocks with 3..
+Kentavious Caldwell Pope of the Denver Nuggets had the most blocks with 3
 ```
