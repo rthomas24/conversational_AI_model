@@ -6,7 +6,7 @@ Sophisticated Conversational AI model, leveraging the power of Langchain and Ope
 
 Install [Langchain](https://github.com/hwchase17/langchain) and other required packages.
 ```
-pip install langchain openai chromadb
+pip install langchain openai chromadb unstructured tiktoken
 ```
 Modify `constants.py` to use your own [OpenAI API key](https://platform.openai.com/account/api-keys)
 
